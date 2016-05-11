@@ -1,0 +1,18 @@
+{
+  "name": "rxjs-import",
+  "version": "0.0.1",
+  "description": "Dedupe support for rxjs dependency.",
+  "keywords": [
+    "web-component",
+    "rxjs"
+  ],
+  "main": "rxjs-import.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "rxjs": "^4.1.0"
+  }
+}
